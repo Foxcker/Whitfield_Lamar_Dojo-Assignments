@@ -1,0 +1,10 @@
+p{
+	color:rgba(0, 0, 255, 0.445);
+}
+#important{
+	font-size:36px;
+}
+.info{
+	background-color: green;
+	border:1px solid black;
+}
